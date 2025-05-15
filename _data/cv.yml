@@ -11,87 +11,115 @@
 - title: Education
   type: time_table
   contents:
+    - title: MS/Ph.D Integrated 
+      institution: Pohang University of Science and Technology
+      year: 2023. 09 ~
+      description:
+        - Department of Computer Science and Enigneering
+        - Data Intelligence Lab
+        - advised by Prof. <a href="http://di.postech.ac.kr/hwanjoyu">Hwanjo Yu</a>
     - title: Bachelor Degree
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Pohang University of Science and Technology
+      year: 2017. 02 ~ 2023. 08
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Major in Computer Science and Enigneering
+        - Minor in Economics and Finance
+        - Honors of Magna Cum Laude
 
-- title: Experience
+- title: Industry Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Development Team Lead 
+      institution: WooroTest
+      year: 2022. 05 ~ 2023. 06
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developing Algorithms for the Services
+        - Developing APIs and Algorithms for Representing Math Formulas for Web and App Services
+        - Database Deployment and Management
+        - Managing Data for the Services
+
+    - title: Software Engineer Intern
+      institution: Hyundai Motor
+      year: 2021. 06 ~ 2021. 09
       description:
-        - Description 1.
-        - Description 2.
+        - Time Series Data Analysis and Machine Learning for Singapore Electric Car Demand Forecast
+        - Singapore Market Analysis
+        - Singapore COE System Analysis
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Software Engineer Intern
+      institution: Samsung Electronics CE/IM (Current DX)
+      year: 2021. 01 ~ 2021. 02
       description:
+        - Time Series Data Analysis and Machine Learning for Anomaly Detection to establish Smart Factory
+        - Anomaly Detection Model for Defect Detection of a Defect Detection Device
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+    - title: Software Engineer Intern
+      institution: Polaris3D
+      year: 2018. 06 ~ 2018. 08
+      description:
+        - Developing 3D Map Viewer using Open Source Pangolin and C++
+        - Developing 3D Map Path Finder for Indoor Autonomous Driving Solution
+      
+      
+- title: Research Experience 
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Reserach Assistant
+      institution: Analytics & Information Management Lab at Department of Industrial and Management Engineering, POSTECH
+      year: 2022. 04 ~ 2022. 06
+      description: 
+        - Data Analysis, Data preprocessing and Development of Prediction Models for the analysis of Population Decline Patterns in South Korea and Japan
+
+    - title: Reserach Intern
+      institution: Pohang Institute of Artificial Intelligence
+      year: 2021. 11 ~ 2021. 12
+      description: 
+        - Data Mining and Data Preprocessing for Artificial Intelligence Model Research specifically Video Recognition
+
+    - title: Reserach Intern
+      institution: Pohang Institute of Artificial Intelligence
+      year: 2018. 10 ~ 2018. 11
+      description: 
+        - Development of Image/Video Recognition Technology
+        - Yolo v2 Detector Test
+        - Making Yolo v2, Caffe, Caffe 2 Tutorial and Manual
+
+- title: Teaching Experience 
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      year: 2023. 09 ~ 2023. 12
+      description: 
+        - CSED312 Operating System
+
+- title: Military Service Info.
+  type: time_table
+  contents:
+    - title: Signalman (Sergeant)
+      year: 2018. 11. 26 ~ 2020. 07. 06
+      description: 
+        - title: Branch of Service
+          contents:
+            - Microwave Signal Communication
+        - title: Awards in Military
+          contents:
+            - Commendation of a Army Major General for Best Trainee at Repulic of Korea Army Training Center (31, Dec 2018)
+            - Commendation of a Army Brigadier General for Best Trainee at Repulic of Korea Army Signal School (23, Jan 2019)
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Grand Prize for Military Open Source Programming Contest in Korea
+        - President of National IT Industry Promotion Agency Award
+    - year: 2016
       items:
-        - Max Planck Medal
+        - A Model Student Award from Ulsan Office of Education in Korea
+        - Superintendent of Education Award
+    - year: 2009
+      items:
+        - President’s Award for Educational Excellence in USA
+        - Gold Seal Presidential Academic Award
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
