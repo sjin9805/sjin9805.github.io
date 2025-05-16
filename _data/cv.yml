@@ -98,7 +98,7 @@
         - CSED312 Operating System
 
 - title: Academic Service
-  type: time-table
+  type: time_table
   contents:
     - title: Program Committee / Reviewer
       year: 2025
@@ -106,10 +106,7 @@
         -  ACL (Annual Meeting of the Association for Computational Linguistics)
      
 
-          
-     
-
-
+        
 - title: Military Service Info.
   type: time_table
   contents:
