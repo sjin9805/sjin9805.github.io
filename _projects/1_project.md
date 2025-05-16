@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Robot-oriented low power multimodal RAG model
+title: ROLRAG
 #description: 
 img: assets/img/mirae.png
 importance: 1
