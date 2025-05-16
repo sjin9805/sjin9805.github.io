@@ -93,15 +93,18 @@
   contents:
     - title: Teaching Assistant
       year: 2023. 09 ~ 2023. 12
-      description: 
+      description:
+        - Fall Semester of 2023 
         - CSED312 Operating System
 
 - title: Academic Service
-  type: nested_list
+  type: time-table
   contents:
-     - title: Program Committee / Reviewer
-       items: 
-       - ACL (Annual Meeting of the Association for Computational Linguistics), 2025
+    - title: Program Committee / Reviewer
+      year: 2025
+      description:
+        -  ACL (Annual Meeting of the Association for Computational Linguistics)
+     
 
           
      

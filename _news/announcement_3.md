@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Pass Ph.D Qualifying Exam/Transition to an integrated Master's and PhD program
+Pass Ph.D Qualifying Exam/Transition to an integrated M.S/Ph.D. program
