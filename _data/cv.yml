@@ -7,6 +7,10 @@
       value: 8th May 1998
     - name: Languages
       value: Korean, English
+    - name: mail
+      value: 
+      - seongjin9805@gmail.com
+      - sjin9805@postech.ac.kr
 
 - title: Education
   type: time_table
@@ -96,7 +100,7 @@
   type: time_table
   contents:
     - title: Signalman (Sergeant)
-      year: 2018. 11. 26 ~ 2020. 07. 06
+      year: 2018. 11 ~ 2020. 07
       description: 
         - Microwave Signal Communication
         - title: Awards in Military
@@ -108,16 +112,16 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2019
-      items:
-        - Grand Prize for Military Open Source Programming Contest in Korea
+    - title: Grand Prize for Military Open Source Programming Contest 
+      year: 2019
+      description:
         - President of National IT Industry Promotion Agency Award
-    - year: 2016
-      items:
-        - A Model Student Award from Ulsan Office of Education in Korea
+    - title: A Model Student Award from Ulsan Office of Education 
+      year: 2016
+      description:
         - Superintendent of Education Award
+    - title: President’s Award for Educational Excellence in USA
     - year: 2009
-      items:
-        - President’s Award for Educational Excellence in USA
+      description:
         - Gold Seal Presidential Academic Award
 
