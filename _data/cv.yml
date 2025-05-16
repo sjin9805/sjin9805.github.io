@@ -7,10 +7,10 @@
       value: 8th May 1998
     - name: Languages
       value: Korean, English
-    - name: mail
-      value: 
-      - seongjin9805@gmail.com
-      - sjin9805@postech.ac.kr
+    - name: Google Email
+      value: seongjin9805@gmail.com
+    - name: Institute Email 
+      value: sjin9805@postech.ac.kr
 
 - title: Education
   type: time_table
@@ -96,11 +96,23 @@
       description: 
         - CSED312 Operating System
 
+- title: Academic Service
+  type: nested_list
+  contents:
+     - title: Program Committee / Reviewer
+       items: 
+       - ACL (Annual Meeting of the Association for Computational Linguistics), 2025
+
+          
+     
+
+
 - title: Military Service Info.
   type: time_table
   contents:
     - title: Signalman (Sergeant)
       year: 2018. 11 ~ 2020. 07
+      department: Republic of Korea Defense Communication Command
       description: 
         - Microwave Signal Communication
         - title: Awards in Military
