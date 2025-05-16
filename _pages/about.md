@@ -18,4 +18,6 @@ M.S./Ph.D Student in the [Data Intelligence Lab](http://di.postech.ac.kr) at [PO
 
 I am a M.S./Ph.D integrated student in [Computer Science Engineering department](https://cse.postech.ac.kr/) at [POSTECH](https://postech.ac.kr/eng/), working as a member of the [Data Intelligence Lab](http://di.postech.ac.kr), advised by Prof. [Hwanjo Yu](http://di.postech.ac.kr/hwanjoyu).
 
-My Primary Research interests encompass Information Retrieval especially Multimodal Retrieval and Robotic AI/Embodied AI. But I am also interested in Natural Language Processing and Recommender System.
+My research interests encompass but not limited to Information Retrieval especially Multimodal Retrieval, Multimodal Model and Robotic AI/Embodied AI. I am also interested in Natural Language Processing and Recommender System. I am currently working on representation learning for Multimodal data and Action Sequence Generation of Unimanual and Bimanual Robot Manipulation via Multimodal Model. 
+
+I am open to cooperation, collaboration and discussion, so if you are interested in my research projects, please feel free to contact me.

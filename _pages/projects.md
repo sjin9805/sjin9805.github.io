@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of project that I involve.
+description: A collection of project that I involve in.
 nav: true
 nav_order: 3
-display_categories: [On-going, Complete]
+display_categories: [On-going, Completed]
 horizontal: false
 ---
 
